@@ -1,0 +1,115 @@
+﻿<UserControl x:Class="RadioDJManager.Views.MySQLSettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:converters="clr-namespace:RadioDJManager.Converters"
+             mc:Ignorable="d" d:DesignWidth="300" >
+
+    <UserControl.Resources>
+        <converters:StringToBoolConverter x:Key="BoolConverter"/>
+    </UserControl.Resources>
+    <Grid >
+        <ScrollViewer>
+            <StackPanel MinWidth="200">
+                <!--<TextBlock Text="MySQL Settings" HorizontalAlignment="Center" VerticalAlignment="Top"/>-->
+                <!--<GroupBox Height="260" Header="Settings" Width="260">-->
+                    <Grid Margin="20">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="300"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Content="MySQL Server :" 
+                           VerticalAlignment="Top" 
+                           HorizontalAlignment="Left" 
+                           Margin="10" 
+                           Grid.Row="0" 
+                           Grid.Column="0"/>
+
+                    <TextBox Text="{Binding Model.Server, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay, NotifyOnSourceUpdated=True,NotifyOnTargetUpdated=True}"
+                             Grid.Row="0" 
+                             Grid.Column="1"
+                             Margin="10"/>
+
+                        <Label Content="MySQL Database :" 
+                               Grid.Row="1" 
+                               Grid.Column="0"
+                               Margin="10"/>
+
+                        <TextBox Text="{Binding Model.Database,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay,NotifyOnSourceUpdated=True,NotifyOnTargetUpdated=True}" 
+                                 Grid.Row="1" 
+                                 Grid.Column="1"
+                                 Margin="10"/>
+
+                        <Label Content="MySQL Username :" 
+                               Grid.Row="2" 
+                               Grid.Column="0"
+                               Margin="10"/>
+
+                        <TextBox Text="{Binding Model.Username,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay,NotifyOnSourceUpdated=True,NotifyOnTargetUpdated=True}" 
+                                 Grid.Row="2" 
+                                 Grid.Column="1"
+                                 Margin="10"/>
+
+                        <Label Content="MySQL Password :" 
+                               Grid.Row="3" 
+                               Grid.Column="0" 
+                               Margin="10"/>
+
+                    <PasswordBox x:Name="pb"                               
+                                 Grid.Row="3" 
+                                 Grid.Column="1"
+                                 Margin="10"/>
+
+
+
+                        <Label Content="CSV Path :" 
+                               Grid.Row="4" 
+                               Grid.Column="0" 
+                               Margin="10"/>
+
+                        <TextBox Text="{Binding Model.CsvPath, Mode=TwoWay, NotifyOnTargetUpdated=True, NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" 
+                                 Grid.Row="4" 
+                                 Grid.Column="1" 
+                                 Margin="10"/>
+
+                    <Label Content="Save Session :"                                  
+                           Grid.Row="5" 
+                           Grid.Column="0" 
+                           Margin="10"/>
+
+                        <ComboBox 
+                            ItemsSource="{Binding Model.SaveChoices, UpdateSourceTrigger=PropertyChanged}"
+                            SelectedItem="{Binding Model.SaveSession,Converter={StaticResource BoolConverter} ,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                            SelectedIndex="{Binding Model.SelectedChoiceIndex, UpdateSourceTrigger=PropertyChanged}"
+                            Margin="10"
+                            Grid.Row="5" 
+                            Grid.Column="1"/>
+
+                    <Button Command="{Binding SaveSettingsC}" 
+                            Content="OK" 
+                            Style="{DynamicResource MaterialDesignRaisedDarkButton}" 
+                            Width="100"
+                            Grid.Row="6" 
+                            Grid.Column="0"
+                            Grid.ColumnSpan="2"
+                            Margin="10"
+                            ToolTip="Save" 
+                            Click="ModernButton_Click"/>
+                </Grid>
+                <!--</GroupBox>-->
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

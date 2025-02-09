@@ -1,0 +1,2 @@
+﻿1)Database Connection state
+2)

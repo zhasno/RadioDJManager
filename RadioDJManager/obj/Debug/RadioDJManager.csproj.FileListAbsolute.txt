@@ -1,0 +1,269 @@
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.exe.config
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.exe
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.pdb
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\About.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\Settings.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\App.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\About.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\Settings.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\App.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.cache
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.g.resources
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.exe
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.pdb
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\AsrView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\DhuhrView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\IshaView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\MaghribView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\SubhView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\AsrView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\DhuhrView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\IshaView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\MaghribView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\SubhView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\MySQLSettingsView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\MySQLSettingsView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\PresentationCore.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\PresentationFramework.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Configuration.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Data.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Xaml.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Xml.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Xml.Linq.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\WindowsBase.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\Icons\Kaba.ico
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_Content.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.lref
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\RotationsView.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\RotationsView.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.baml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.g.cs
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\log4net.dll
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\bin\Debug\log4net.xml
+C:\Users\ilyas\Documents\Visual Studio 2013\Projects\RadioDJManager\RadioDJManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.exe.config
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.exe
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.pdb
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Icons\Kaba.ico
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.exe
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.pdb
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\log4net.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\PresentationCore.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\PresentationFramework.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Configuration.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Data.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Xaml.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Xml.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Xml.Linq.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\WindowsBase.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\log4net.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.csprojResolveAssemblyReference.cache
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Content\About.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\AsrView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\DhuhrView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\IshaView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\MaghribView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\RotationsView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\Settings.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\SubhView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\App.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Content\MySQLSettingsView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Content\About.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\AsrView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\DhuhrView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\IshaView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\MaghribView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\RotationsView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\Settings.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Pages\SubhView.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\App.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_Content.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.cache
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.lref
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\Content\MySQLSettingsView.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.baml
+C:\Users\Darkstar\Desktop\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.g.resources
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.exe.config
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.exe
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.pdb
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Icons\Kaba.ico
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.exe
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\RadioDJManager.pdb
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\log4net.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\PresentationCore.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\PresentationFramework.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Configuration.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Data.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Xaml.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Xml.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Xml.Linq.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\WindowsBase.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\log4net.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\About.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\AsrView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\DhuhrView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\IshaView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\MaghribView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\RotationsView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\Settings.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\SubhView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\App.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\MySQLSettingsView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\About.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\AsrView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\DhuhrView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\IshaView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\MaghribView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\RotationsView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\Settings.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Pages\SubhView.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\App.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_Content.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.cache
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.lref
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\Content\MySQLSettingsView.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.baml
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.g.resources
+C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.csprojResolveAssemblyReference.cache
