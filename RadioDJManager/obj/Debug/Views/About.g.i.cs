@@ -9,6 +9,15 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using Dragablz;
+using Dragablz.Dockablz;
+using Hardcodet.Wpf.TaskbarNotification;
+using MaterialDesignThemes.MahApps;
+using MaterialDesignThemes.Wpf;
+using MaterialDesignThemes.Wpf.Converters;
+using MaterialDesignThemes.Wpf.Transitions;
+using RadioDJManager;
+using RadioDJManager.Views;
 using System;
 using System.Diagnostics;
 using System.Windows;
