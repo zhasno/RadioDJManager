@@ -267,3 +267,27 @@ C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJMa
 C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\MainWindow.baml
 C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.g.resources
 C:\Users\Darkstar\Documents\Visual Studio 2015\Projects\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.csprojResolveAssemblyReference.cache
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.csproj.AssemblyReference.cache
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager.exe.config
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.baml
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.baml
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\About.baml
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\RotationsView.baml
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\App.baml
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\EventControl.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\MySQLSettingsView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\CustomViewer.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\CustomControls\RotatorControl.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\About.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\AsrView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\DhuhrView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\IshaView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\MaghribView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\RotationsView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\Views\SubhView.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\App.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_Content.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.cache
+C:\Users\hadih\Source\Repos\RadioDJManager\RadioDJManager\obj\Debug\RadioDJManager_MarkupCompile.lref

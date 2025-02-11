@@ -9,7 +9,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using Dragablz;
+using Dragablz.Dockablz;
 using RadioDJManager.CustomControls;
+using RadioDJManager.Views;
 using System;
 using System.Diagnostics;
 using System.Windows;
